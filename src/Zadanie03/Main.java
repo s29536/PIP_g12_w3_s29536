@@ -3,22 +3,31 @@ package src.Zadanie03;
 import java.util.Scanner;
 
 public class Main {
+
+    // ZAD 1 ===================================
     public static void main(String[] args) {
-        int x;
-        int y;
-        int a;
-        int b;
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Podaj x i nacisnij enter");
-        x = scan.nextInt();
-        System.out.println("Podaj y i nacisnij enter");
-        y = scan.nextInt();
-        System.out.println("Podaj a i nacisnij enter");
-        a = scan.nextInt();
-        System.out.println("Podaj b i nacisnij enter");
-        b = scan.nextInt();
-        boolean alt = 
-        System.out.println(alt);
+        boolean x, y, a, b;
+
+
+        System.out.println("");
+
+    // ZAD 2 ====================================
+        // jeden int z konsoli ; funkcja random
+        //
+
+
+
+    // ZAD 3 ====================================
+        // int x;
+        // int y;
+        // int z do zamiany (kubek z kawa i herbata)
+
+    // ZAD 4 ====================================
+
+        // jw ale bez 3 int
+
+    // ZAD 5 ===============================
+        // 
 
 
     }
